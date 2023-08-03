@@ -1,0 +1,35 @@
+.container{
+    width: 300px;
+    background-color:thistle;
+    margin: 0 auto;
+    margin-top: 14%;
+    border-radius: 20px;
+    text-align: center;
+
+
+}
+span{
+    color: rgb(255, 0, 0);
+}
+body{
+    background-color:pink;
+}
+.gray{
+    color: gray;
+    text-decoration: line-through;
+}
+ul{
+    list-style: none;
+}
+input{
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+    border-color: thistle;
+    margin-bottom: 8px;
+}
+input:focus{
+    outline: none;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
